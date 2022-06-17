@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>ClothesMex</title>
+
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+
+
+
+
+  <body class="body2">
+    <header>
+
+      <header class="fondo">
+        <span><a href="index.html"><img id="logo" src="imagenes/LogoCM.png"></a></span>
+
+        <span class="agregados">
+          <a href="favoritos.html"> <img id="hearth" src="imagenes/heart.png"> </a>
+          <a href="carrito.html"> <img id="carrito" src="imagenes/car.png"> </a>
+          <a href="login.html"><button id="login">LOGIN</button> </a>
+
+        </span>
+
+        <div class="menu">
+          <ul>
+            <li><a href="About us.html">ABOUT US</li></a>
+            <li><a href="men.html">MEN</li></a>
+            <li><a href="woman.html">WOMAN</li></a>
+            <li><a href="kids.html">KIDS</li></a>
+          </ul>
+
+        </div>
+      </header>
+
+      <span>
+        <p id="news">NUEVOS LANZAMIENTOS</p>
+      </span>
+
+      <div class="ropa">
+        <div class="slides">
+          <ul>
+            <li>
+              <a>  <img class="clothes" src="imagenes/ropawoman/1.jpg"> </a>
+            </li>
+            <li>
+              <a> <img class="clothes" src="imagenes/ropawoman/2.jpg"> </a>
+
+            </li>
+            <li>
+              <a> <img class="clothes" src="imagenes/ropawoman/3.jpg"> </a>
+
+            </li>
+          </ul>
+        </div>
+
+        <div style="position: absolute;top: 50%;width: 100%;">
+
+          <button class="flechas"> < </button>
+          <button class="flechas2"> > </button>
+        </div>
+      </div>
+
+
+    <footer>
+      <div class="socials">
+        <div class="socialw fadeInDown">
+
+          <!-- GMAIL !-->
+          <a href="https://mail.google.com/mail/u/3/?ogbl#inbox" target="_blank">
+            <div class="social"><img id="gmail" src="imagenes/gmai.png"/></div>
+          </a>
+          <!-- GMAIL !-->
+
+
+          <!-- Facebook !-->
+          <a href="https://www.facebook.com/groups/716860252971880" target="_blank">
+            <div class="social"><img src="https://i.imgur.com/PY2EPRW.png"/></div>
+          </a>
+          <!-- Facebook !-->
+
+          <!-- Twitter !-->
+          <a href="https://twitter.com/MexClothes" target="_blank">
+            <div class="social"> <img src="https://i.imgur.com/ny0pyqt.png"/> </div>
+          </a>
+          <!-- Twitter !-->
+
+          <!-- Intagram !-->
+          <a href="https://www.instagram.com/clothesmex0/" target="_blank">
+            <div class="social"> <img src="https://i.imgur.com/tZZG2zQ.png"/></div>
+          </a>
+          <!-- Instagram !-->
+
+          </div>
+
+        <!-- Social Icons End !-->
+          <div class="infor">
+              <p id="foter1">¿Necesitas ayuda? ¡Escribenos! México © 2022 ClothesMexMX</p>
+              <p id="foter2">clothesmex@gmail.com @clothesMX +52 449 234 2243 </p>
+          </div>
+        </div>
+    </footer>
+
+    </header>
+    </body>
+
+
+
+</html>
